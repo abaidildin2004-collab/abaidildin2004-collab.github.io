@@ -1,0 +1,22 @@
+title: Merey Portfolio
+description: Personal teaching portfolio and professional profile.
+theme: minima
+url: "https://abaidildin2004-collab.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+header_pages:
+  - background.md
+  - education.md
+  - experience.md
+  - achievements.md
+  - demo-lessons.md
+  - projects.md
+  - references.md
+
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/abaidildin2004-collab

@@ -1,0 +1,47 @@
+---
+---
+
+$brand-color: #2f5d62;
+$link-base-color: #1f4f8c;
+$link-visited-color: #5d3f8c;
+$background-color: #f7f7f2;
+$text-color: #21313c;
+
+@import "minima";
+
+body {
+  background: linear-gradient(180deg, #fcfcf8 0%, #f3f5f7 100%);
+}
+
+.site-header {
+  border-top: 6px solid $brand-color;
+}
+
+.site-title,
+.site-title:visited {
+  color: $brand-color;
+  font-weight: 700;
+}
+
+.page-content {
+  padding-top: 2rem;
+}
+
+.post-content,
+.home {
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(33, 49, 60, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(33, 49, 60, 0.06);
+  padding: 2rem;
+}
+
+h1,
+h2,
+h3 {
+  color: $brand-color;
+}
+
+ul li {
+  margin-bottom: 0.35rem;
+}
