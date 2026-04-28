@@ -6,9 +6,7 @@ permalink: /background/
 
 ## About Me
 
-Hello, I am Merey, a passionate teacher preparing to begin the next stage of my professional journey. I enjoy creating positive learning environments where students feel supported, challenged, and motivated to grow.
-
-My teaching philosophy centers on clarity, patience, and meaningful connection. I aim to help learners build confidence while developing practical knowledge and independent thinking skills.
+I am a graduate of The Education University of Hong Kong with a Bachelor of Education in Geography.
 
 ## Personal Values
 

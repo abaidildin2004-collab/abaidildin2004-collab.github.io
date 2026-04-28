@@ -3,7 +3,7 @@ layout: home
 title: Merey
 ---
 
-Welcome to my teaching portfolio. I am a graduating educator who believes strong teaching combines empathy, structure, and curiosity.
+Welcome to my teaching portfolio. I am a graduate of The Education University of Hong Kong with a Bachelor of Education in Geography.
 
 This website is a simple space to share my background, experience, demo lessons, projects, and references. Each page is written in Markdown so it stays easy to update over time.
 
@@ -25,4 +25,4 @@ This website is a simple space to share my background, experience, demo lessons,
 
 ## Welcome Note
 
-Thank you for visiting. The current content is placeholder text and will be updated with my full profile soon.
+Thank you for visiting.
